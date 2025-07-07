@@ -1,0 +1,16 @@
+1. What is ML
+2. RL vs other ML paradigms (Surpervised, unsupervised, etc...)
+3. RL Fundamentals
+4. SA vs MARL
+5. RL Example with space invaders game
+6. Tabular algorithms
+7. Tabular implementations on Gymnasium FrozenLake, show the results, maybe video
+8. Approximate algorithms
+9. Approximate implementations on Gymnasium PoleCart, show the results, maybe video
+10. Image based SA RL on Atari Pong
+11. DQN Implementation
+12. Videos and results
+13. Image based MARL RL on Atari Pong
+14. DQN vs REINFORCE implementation
+15. Videos and results
+16. Thanks
